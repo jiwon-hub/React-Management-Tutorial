@@ -1,5 +1,5 @@
 ## Management System
-안녕하세요? 본 프로젝트는 react 강의 목적으로 만들어진 고객 관리 시스템입니다. 잘부탁드립니다. 2
+안녕하세요? 본 프로젝트는 react 강의 목적으로 만들어진 고객 관리 시스템입니다. 잘부탁드립니다. ^^
 
 # Getting Started with Create React App
 
